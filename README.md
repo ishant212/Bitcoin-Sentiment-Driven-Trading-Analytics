@@ -159,6 +159,10 @@ http://localhost:8501
 
 # Dataset Information
 
+Due to repository size limitations, datasets are not included directly in the GitHub repository.
+
+Please download the datasets manually and place them inside the `data/` folder.
+
 ## 1. Bitcoin Fear & Greed Dataset
 
 Columns:
@@ -174,6 +178,17 @@ Tracks Bitcoin market sentiment from:
 - Greed
 - Extreme Greed
 
+Download:
+https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing
+
+Place as:
+
+```text
+historical_data.csv
+```
+
+---
+
 ---
 
 ## 2. Hyperliquid Historical Trader Dataset
@@ -188,6 +203,15 @@ Includes:
 - timestamps
 - fees
 - leverage-related metrics
+
+Download:
+https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing
+
+Place as:
+
+```text
+fear_greed_index.csv
+```
 
 ---
 
@@ -279,7 +303,3 @@ Potential future upgrades:
 - Deployment to Streamlit Cloud
 
 ---
-
-# Author
-
-Developed as a quantitative crypto trading analytics and machine learning project focused on behavioral finance and market sentiment analysis.
