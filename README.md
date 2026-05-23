@@ -93,7 +93,7 @@ btc_sentiment_analysis/
 ## 1. Clone Repository
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/ishant212/Bitcoin-Sentiment-Driven-Trading-Analytics
 cd btc_sentiment_analysis
 ```
 
